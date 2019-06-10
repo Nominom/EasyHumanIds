@@ -7,7 +7,8 @@ But it's perfect for simple things like roguelike seed generation.
 
 ## Unity integration (Tested with Unity 2019.1.3f1)
 
-Make sure the target framework is set to net45 in the .fsproj file like this:
+Open the project in Visual Studio (With F# tools installed) and
+make sure the target framework is set to net45 in the .fsproj file like this:
 
     <TargetFramework>net45</TargetFramework>
     
