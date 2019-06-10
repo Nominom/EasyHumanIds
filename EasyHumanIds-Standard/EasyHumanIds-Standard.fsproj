@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net45</TargetFramework>
+    <RootNamespace>EasyHumanIds_Standard</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Words.fs" />
+    <Compile Include="Library.fs" />
+  </ItemGroup>
+
+</Project>
